@@ -1,34 +1,42 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: A Computational Biophysics Laboratory
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: self-teide-small.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>The PI in 2004...</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Research interests
+Our research focuses on the application of computational models to biology and medicine, at various scales, to characterize genotype-phenotype and protein-drug interactions, making extensive use of molecular dynamics and statistical methods. Our background includes statistical physics, software engineering, and high-performance computational architectures.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## About me
+**Primo ricercatore** (senior researcher) at the Italian [National Research Council](http://www.cnr.it) (IBF-CNR) since 2023. Tenured in 2012. In 2009 awarded a 3-year *Beatriu de Pinos* grant by the Generalitat de Catalunya for the *in silico* characterization of protein-protein and protein-drug interactions via large-scale all-atom simulations, developed in the [Computational Biophysics Group](http://grib.imim.es/research/computational-science/) at the [University Pompeu Fabra](http://www.upf.edu) in Barcelona (GRIB-IMIM-UPF). Before 2008 with the [Laboratory for Biomedical Informatics "Mario Stefanelli"](http://www.labmedinfo.org/) of the University of Pavia, conducting research on artificial intelligence for healthcare. PhD in Bioengineering and Bioinformatics (University of Pavia, 2005), and degree in Physics (University of Pisa, 2001). Alumn of the [Scuola Normale Superiore](http://www.sns.it) (Pisa, 1995).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Contacts
+- E-mail: *first name dot last name* at cnr.it
+- [Profile on Google scholar](http://scholar.google.it/citations?user=6uFYeoAAAAAJ)
+- [Publications](/publications/)
+- GitHub: [@giorginolab](https://github.com/giorginolab) (stable), [@tonigi](https://github.com/tonigi) (work-in-progress)
+- ORCID: 0000-0001-6449-0596; ResearcherID: H-1866-2011 (if you are into curating such proprietary databases)
+- Abilitazione a professore II fascia: 09/G2 Bioingegneria (ASN 2016)
+- Abilitazione a professore II fascia: 03/D1 Chimica e Tecnologie Farmaceutiche, Tossicologiche e Nutraceutico-Alimentari (ASN 2021)
+- I am not on Facebook, Instagram, etc. [See why](https://web.archive.org/web/20240329064537/https://www.theonion.com/cias-facebook-program-dramatically-cut-agencys-costs-1819594988). (Warning: satire)
+- On Mastodon: [@giorginolab@mstdn.science](https://mstdn.science/web/@giorginolab)
+
+## Where
+I am part of [CNR-IBF](https://www.ibf.cnr.it) and our group is hosted by the [Department of Biosciences](https://www.dbs.unimi.it/ecm/home) of the University of Milan.
