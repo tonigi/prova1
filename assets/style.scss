@@ -237,6 +237,10 @@ a:focus {
   align-items: start;
 }
 
+.about-me-grid .pi-card {
+  margin-top: 3rem;
+}
+
 .about-text h2 {
   border-bottom: 1px solid var(--border);
   padding-bottom: 0.3rem;
@@ -348,7 +352,7 @@ a:focus {
   }
 
   .pi-card {
-    order: -1;
+    margin-top: 0;
     margin: 0 auto;
   }
 
