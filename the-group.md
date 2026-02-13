@@ -7,11 +7,12 @@ permalink: /the-group.html
 
 # The group
 
-<figure style="float: left; width: 260px; margin: 0 1rem 1rem 0;">
+The group includes the PI, yours truly, and students with a passion for AI, computational modeling, statistics, and affine topics. Lab members belong to several institutions.
+
+
+<figure style="float: right; width: 360px; margin: 0  0 1rem 1rem;">
 <img src="{{ '/assets/images/group-pic.jpg' | relative_url }}" alt="GiorginoLab group photo" loading="lazy" style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #ced9e5;">
 </figure>
-
-The group includes the PI, yours truly, and students with a passion for AI, computational modeling, statistics, and affine topics. Lab members belong to several institutions.
 
 ## Current members
 - I. Cazzaniga, Research Fellow (CNR)
