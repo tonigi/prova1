@@ -11,7 +11,9 @@ Peer-reviewed only
 
 Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
-2025
+## By year
+
+## 2025
 
 [B] Samant R, Giorgino T, Jarochowska E, De Vleeschouwer D. Enhancing the Accuracy of Dynamic Time Warping by Integrating Stratigraphic Constraints Into the Automated Correlation of Sedimentary Sequences. Paleoceanography and Paleoclimatology. 2025;40(8):e2024PA005082. [doi.org/10.1029/2024PA005082](http://doi.org/10.1029/2024PA005082)
 
@@ -21,7 +23,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [P] Aranda-García D, Stepniewski TM, Torrens-Fontanals M, García-Recio A, Lopez-Balastegui M, Medel-Lacruz B, et al. Large scale investigation of GPCR molecular dynamics data uncovers allosteric sites and lateral gateways. Nat Commun . 2025 Feb 27 [cited 2025 Feb 27];16(2020). Available from: [https://www.nature.com/articles/s41467-025-57034-y](https://www.nature.com/articles/s41467-025-57034-y)
 
-2024
+## 2024
 
 [P] Callea L, Caprai C, Bonati L, Giorgino T, Motta S. Self-Organizing Maps of Unbiased Ligand-Target Binding Pathways and Kinetics. Journal of Chemical Physics 2024. Available from: [http://arxiv.org/abs/2409.12603](http://arxiv.org/abs/2409.12603)
 
@@ -33,7 +35,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [B] Samant R, Giorgino T, Jarochowska E, Vleeschouwer DD. Advantages of DTW windowing function in automated correlation of stratigraphic time series [Internet]. EGU General Assembly 2024; 2024 Mar [cited 2024 Mar 12]. Report No.: EGU24-8374.[https://doi.org/10.5194/egusphere-egu24-8374](https://doi.org/10.5194/egusphere-egu24-8374)
 
-2023
+## 2023
 
 [P] Majewski M, Pérez A, Thölke P, Doerr S, Charron NE, Giorgino T, et al. Machine learning coarse-grained potentials of protein thermodynamics. Nat Commun. 2023 Sep 15;14(1):5739.
 
@@ -41,7 +43,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [B] Allesøe RL, Lundgaard AT, Hernández Medina R, Aguayo-Orozco A, Johansen J, Nissen JN, et al. Discovery of drug–omics associations in type 2 diabetes with generative deep-learning models. Nat Biotechnol. 2023 Mar;41(3):399–408.
 
-2022
+## 2022
 
 [B] Rasile M, Lauranzano E, Faggiani E, Ravanelli MM, Colombo FS, Mirabella F, et al. Maternal immune activation leads to defective brain–blood vessels and intracerebral hemorrhages in male offspring. The EMBO Journal. 2022 Oct 31;n/a(n/a):e111192. [doi:10.15252/embj.2022111192](http://doi.org/10.15252/embj.2022111192)
 
@@ -53,7 +55,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [B] Retelletti Brogi S, Cossarini G, Bachi G, Balestra C, Camatti E, Casotti R, et al. Evidence of Covid-19 lockdown effects on riverine dissolved organic matter dynamics provides a proof-of-concept for needed regulations of anthropogenic emissions. Science of The Total Environment. 2022 Mar 15;152412. [doi:10.1016/j.scitotenv.2021.152412](https://www.sciencedirect.com/science/article/pii/S0048969721074908)
 
-2021
+## 2021
 
 [P] Bollati M et al. A novel hotspot of gelsolin instability and aggregation propensity triggers a new mechanism of amyloidosis. Computational and Structural Biotechnology Journal. [arXiv:2109.07190](https://arxiv.org/abs/2109.07190) [doi:10.1016/j.csbj.2021.11.025](https://doi.org/10.1016/j.csbj.2021.11.025)
 
@@ -61,7 +63,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [P] Doerr S, Majewsk M, Pérez A, Krämer A, Clementi C, Noe F, et al. TorchMD: A deep learning framework for molecular simulations. Journal of Chemical Theory and Computation. [doi:10.1021/acs.jctc.0c01343](https://doi.org/10.1021/acs.jctc.0c01343); Available from: [arXiv:2012.12106](http://arxiv.org/abs/2012.12106)
 
-2020
+## 2020
 
 [P] Cossu F, Sorrentino L, Fagnani E, Zaffaroni M, Milani M, Giorgino T*, Mastrangelo E*. Computational and experimental characterization of NF023, a candidate anticancer compound inhibiting cIAP2/TRAF2 assembly. J Chem Inf Model. 2020 Aug 21 doi:[10.1021/acs.jcim.0c00518](https://doi.org/10.1021/acs.jcim.0c00518), [[arXiv:2103.10915](https://arxiv.org/abs/2103.10915)]. (* shared corresponding)
 
@@ -71,7 +73,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [P] De Rosa M, et al. The structure of N184K amyloidogenic variant of gelsolin highlights the role of the H-bond network for protein stability and aggregation properties. European Biophysics Journal (2020) [doi:10.1007/s00249-019-01409-9](http://doi.org/10.1007/s00249-019-01409-9) [[arXiv:1911.08194](https://arxiv.org/abs/1911.08194)]
 
-2019
+## 2019
 
 [P] Giorgino T, (2019). PYCV: a PLUMED 2 Module Enabling the Rapid Prototyping of Collective Variables in Python. Journal of Open Source Software, 4(42), 1773, [doi:10.21105/joss.01773](https://doi.org/10.21105/joss.01773), OA
 
@@ -93,7 +95,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [B] Wilman HR, Parisinos CA, Atabaki-Pasdar N, Kelly M, Thomas EL, Neubauer S, et al. Genetic studies of abdominal MRI data identify genes regulating hepcidin as major determinants of liver iron concentration. Journal of Hepatology. 2019 Volume 71, Issue 3, September 2019, 594-602 . [doi:10.1016/j.jhep.2019.05.032](http://doi.org/10.1016/j.jhep.2019.05.032)
 
-2018
+## 2018
 
 [P] Giorgino T, How to Differentiate Collective Variables in Free Energy Codes: Computer-Algebra Code Generation and Automatic Differentiation. Computer Physics Communications. [doi:10.1016/j.cpc.2018.02.017](https://doi.org/10.1016/j.cpc.2018.02.017) [[arXiv:1709.06780](https://arxiv.org/abs/1709.06780)]
 
@@ -107,7 +109,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [B] Mora B, Giorgino T, Guglielmelli P, Rumi E, Maffioli M, Rambaldi A, et al. Phenotype variability of patients with post polycythemia vera and post essential thrombocythemia myelofibrosis is associated with the time to progression from polycythemia vera and essential thrombocythemia. Leukemia Research. 2018 [doi:10.1016/j.leukres.2018.04.012](https://doi.org/10.1016/j.leukres.2018.04.012)
 
-2017
+## 2017
 
 [P] Stefan Doerr*, Toni Giorgino*, Gerard Martinez-Rosell, João M. Damas, and Gianni De Fabritiis, High-throughput automated preparation and simulation of membrane proteins with HTMD, J. Chem. Theory Comput. 2017, [doi:10.1021/acs.jctc.7b00480](http://dx.doi.org/10.1021/acs.jctc.7b00480) (* shared first)
 
@@ -119,7 +121,7 @@ Legend: [P] Computational physics; [B] Biostatistics/bioengineering.
 
 [P] Giorgino T, Laio A, Rodriguez A. METAGUI 3: A graphical user interface for choosing the collective variables in molecular dynamics simulations. Computer Physics Communications 217 (2017). [doi:10.1016/j.cpc.2017.04.009](http://dx.doi.org/10.1016/j.cpc.2017.04.009)
 
-2016 and before
+## 2016 and before
 
 [B] Passamonti F, Mora B*, Giorgino T*, Guglielmelli P, Cazzola M, Maffioli M, et al. Driver mutations’ effect in secondary myelofibrosis: An international multicenter study based on 781 patients. Leukemia [Internet]. 2016 Nov 25 [doi:10.1038/leu.2016.351](http://www.nature.com/leu/journal/vaop/naam/abs/leu2016351a.html) * equal contribution
 
