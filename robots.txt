@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tonigi.github.io/sitemap.xml
+Sitemap: https://tonigi.github.io/prova1/sitemap.xml
